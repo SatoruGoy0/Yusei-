@@ -12,9 +12,7 @@
 #### *COMANDOS*  
 ```
 pkg i python -y && pkg i git -y
-git clone https://github.com/Lursy/Persux
-cd Persux
-python Persux.py
+git clone https://github.com/SatoruGoy0/Yusei-
 ``` 
 
 #### *FUNÇÕES*  
